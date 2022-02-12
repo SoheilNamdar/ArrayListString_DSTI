@@ -18,6 +18,6 @@ public class Main {
         as.remove(2);
         System.out.println(as);
 
-         
+
     }
 }
