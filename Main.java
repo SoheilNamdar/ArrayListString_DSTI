@@ -6,8 +6,6 @@ public class Main {
 	// write your code here
         ArrayListString as= new ArrayListString();
         as.add("Hello");
-        //System.out.println(as.length);
-
         as.add("World");
         as.add("!");
         as.add("This is just to");
@@ -17,7 +15,5 @@ public class Main {
 
         as.remove(2);
         System.out.println(as);
-
-
     }
 }
